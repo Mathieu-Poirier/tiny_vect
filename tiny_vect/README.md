@@ -6,6 +6,7 @@ A minimal vector math library for 2D and 3D operations in Rust.
 
 - **2D Vectors** (`Vect2`) with comprehensive mathematical operations
 - **3D Vectors** (`Vect3`) with cross product and 3D-specific operations
+- **No dependencies** - pure Rust implementation
 - **Debug assertions** for catching numerical errors during development
 
 ## Installation
@@ -92,9 +93,7 @@ let cross = a.cross(&b);           // Vect3 { x: 0.0, y: 0.0, z: 1.0 }
 
 ## License
 
-Licensed under either of
+Licensed under:
 
-- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
 - MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 
-at your option.
