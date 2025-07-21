@@ -3,4 +3,12 @@ name = "tiny_vect"
 version = "0.1.0"
 edition = "2024"
 
-[dependencies]
+# Required
+license = "MIT OR Apache-2.0"
+description = "A minimal vector math library for 2D and 3D operations in Rust."
+homepage = "https://github.com/Mathieu-Poirier/tiny_vect"
+repository = "https://github.com/Mathieu-Poirier/tiny_vect"
+readme = "README.md"
+keywords = ["vector", "math", "geometry", "2d", "3d", "Vect2", "Vect3", "games", "maths", "maths-library"]
+categories = ["mathematics", "science"]
+
