@@ -1,5 +1,9 @@
 # Tiny Vect
 
+[![Crates.io](https://img.shields.io/crates/v/tiny_vect.svg)](https://crates.io/crates/tiny_vect)
+[![Docs.rs](https://docs.rs/tiny_vect/badge.svg)](https://docs.rs/tiny_vect)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 A minimal vector math library for 2D and 3D operations in Rust.
 
 ## Features
