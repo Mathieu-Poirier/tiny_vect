@@ -9,6 +9,6 @@ description = "A minimal vector math library for 2D and 3D operations in Rust."
 homepage = "https://github.com/Mathieu-Poirier/tiny_vect"
 repository = "https://github.com/Mathieu-Poirier/tiny_vect"
 readme = "README.md"
-keywords = ["vector", "math", "geometry", "2d", "3d", "Vect2", "Vect3", "games", "maths", "maths-library"]
+keywords = ["vector", "math", "geometry", "Vect2", "Vect3"]
 categories = ["mathematics", "science"]
 
