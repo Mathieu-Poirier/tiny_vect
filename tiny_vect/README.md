@@ -6,10 +6,7 @@ A minimal vector math library for 2D and 3D operations in Rust.
 
 - **2D Vectors** (`Vect2`) with comprehensive mathematical operations
 - **3D Vectors** (`Vect3`) with cross product and 3D-specific operations
-- **No dependencies** - pure Rust implementation
-- **No-std compatible** for embedded systems
 - **Debug assertions** for catching numerical errors during development
-- **Operator overloading** for intuitive vector arithmetic
 
 ## Installation
 
